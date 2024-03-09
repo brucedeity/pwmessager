@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "peppeocchi/php-cron-scheduler": "^4.0"
+    }
+}
